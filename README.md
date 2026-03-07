@@ -1,4 +1,4 @@
-# Learning Research
+<img width="600" height="115" alt="image" src="https://github.com/user-attachments/assets/13f74cbe-5dd6-4073-966c-13acfe5f1ea3" /># Learning Research
 
 ## Motivation of This Repository
 
@@ -9,7 +9,7 @@
 **Postscript:**
 1. 本文档内容可能无法完全反映本人想表达的意思，内容可能也不够完整。如果想深入学习科研，推荐在参考文档的情况下在实践与交流中学习。
 2. 本文档适用于[本人](https://pengsida.net/)在[本实验室](https://xzhou.me/)的科研经历，但不一定适用于其他情况。
-3. 本文档将持续更新（更新可能会在Notion文档中进行，因此不一定会反映在Commit History中）。文档上次更新时间：2026年1月29日。
+3. 本文档将持续更新（更新可能会在Notion文档中进行，因此不一定会反映在Commit History中）。文档上次更新时间：2026年3月7日。
 
 ## 如何努力成为一个Top Ph.D. Student
 
@@ -37,6 +37,7 @@
    - [《面向实验结果的方案优化》Slides](https://pengsida.net/games003/GAMES003_files/week_5.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=5)。
 2. 《learning research》版本：[Slides](https://pengsida.net/files/learning_research_v4.pdf) 和 [Talk Video](https://www.bilibili.com/video/BV1DA4m1V7D3/)。
 3. 着重讨论如何建立领域视野和选择科研课题的版本（2025年8月12日）：[Slides](https://pengsida.net/files/research_topic_selection.pdf)。
+4. 《CCF优博是怎么炼成的》：[Slides](https://pengsida.net/files/CCF_Talk.pdf)。
 
 本人与另外三位研究人员（[高俊](https://www.cs.toronto.edu/~jungao/)、[彭崧猷](https://pengsongyou.github.io/)、[王倩倩](https://qianqianwang68.github.io/)）在GAMES平台上开设了课程：[《GAMES003：图形视觉科研基本素养》](https://pengsida.net/games003/)。
 
